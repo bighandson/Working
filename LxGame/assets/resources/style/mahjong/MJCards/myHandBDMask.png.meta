@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "38d5043e-f2c2-449f-880f-857a7949ef0c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "myHandBDMask": {
+      "ver": "1.0.3",
+      "uuid": "e1b60d6f-b94f-4934-b831-36e898dfe793",
+      "rawTextureUuid": "38d5043e-f2c2-449f-880f-857a7949ef0c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 91,
+      "height": 130,
+      "rawWidth": 91,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

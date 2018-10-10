@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zuanpan",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c1135a60-eff8-4f69-8693-4c551b57668c"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "26ac51fc-f6a1-4e4a-afb1-cc4c781a338d"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "c1135a60-eff8-4f69-8693-4c551b57668c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

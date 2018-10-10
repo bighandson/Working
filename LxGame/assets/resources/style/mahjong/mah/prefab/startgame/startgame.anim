@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "startgame",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.17,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "light1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.16666666666666666,
+              "value": -257
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 273
+            }
+          ]
+        }
+      },
+      "light2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 326
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": -320
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "start_game_bg": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "circOut"
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255,
+              "curve": "circOut"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

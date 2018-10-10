@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "600a6c30-30ed-469d-b03d-b0c055b65d77",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "myBlockTipMask": {
+      "ver": "1.0.3",
+      "uuid": "c7c319d4-5a6a-4dd3-98f5-c817b3b96584",
+      "rawTextureUuid": "600a6c30-30ed-469d-b03d-b0c055b65d77",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 88,
+      "height": 116,
+      "rawWidth": 89,
+      "rawHeight": 119,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

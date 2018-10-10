@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "dcdb8cf9-dc37-44c7-8d90-b85cdb47f4cc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "reminapokerbg": {
+      "ver": "1.0.3",
+      "uuid": "e780639e-2692-47ee-8861-dd0cd598b88d",
+      "rawTextureUuid": "dcdb8cf9-dc37-44c7-8d90-b85cdb47f4cc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 57,
+      "height": 71,
+      "rawWidth": 57,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

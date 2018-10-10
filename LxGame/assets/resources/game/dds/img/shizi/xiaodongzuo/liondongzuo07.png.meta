@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0db61148-250c-43f1-8505-8333f09c4709",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "liondongzuo07": {
+      "ver": "1.0.3",
+      "uuid": "9d4c1d3a-ae84-49b4-826f-af5c987926f8",
+      "rawTextureUuid": "0db61148-250c-43f1-8505-8333f09c4709",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -4.5,
+      "trimX": 7,
+      "trimY": 12,
+      "width": 186,
+      "height": 203,
+      "rawWidth": 206,
+      "rawHeight": 218,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

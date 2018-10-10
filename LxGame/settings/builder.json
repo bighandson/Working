@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.jushi.game.yxtt",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "ffa02fee-f533-4d8d-a7a8-936eef6defa8",
+  "title": "yxtt",
+  "webOrientation": "auto"
+}

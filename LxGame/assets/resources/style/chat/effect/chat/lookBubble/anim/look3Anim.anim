@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "look3Anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fbc1fd7c-02a6-4e66-aea7-66612a8b233f"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "a5519446-c9ad-4615-8957-967ae3f0c42d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "fbc1fd7c-02a6-4e66-aea7-66612a8b233f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

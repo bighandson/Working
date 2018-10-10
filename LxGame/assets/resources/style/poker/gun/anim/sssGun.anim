@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sssGun",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.16666666666666666,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "gunSprite": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 20
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {}
+        }
+      },
+      "gunSprite/fireSprite": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "41334ad6-63e4-4f26-93b4-733e67137aeb"
+                }
+              },
+              {
+                "frame": 0.05,
+                "value": {
+                  "__uuid__": "45d4606c-2f3b-400a-9102-9932c845732b"
+                }
+              },
+              {
+                "frame": 0.11666666666666667,
+                "value": {
+                  "__uuid__": "5099b117-2123-49c5-8b22-3200b11a2b0a"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "onStart",
+      "params": []
+    },
+    {
+      "frame": 0.13333333333333333,
+      "func": "onCompleted",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flash",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": [
+            0.7,
+            0.24,
+            0.74,
+            0.29
+          ]
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 255,
+          "curve": [
+            0.12,
+            0.68,
+            0.2,
+            0.79
+          ]
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

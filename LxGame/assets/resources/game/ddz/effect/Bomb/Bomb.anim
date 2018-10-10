@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Bomb",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.5166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "Bomb01": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "73f6b7a4-58a1-44d3-aa60-da14069dd80a"
+                }
+              },
+              {
+                "frame": 0.05,
+                "value": {
+                  "__uuid__": "36b25f4d-35cc-4249-b8f9-cf5d442151aa"
+                }
+              },
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "791a5e60-173e-4a0b-8cd5-4e7f3f445fa6"
+                }
+              },
+              {
+                "frame": 0.15,
+                "value": {
+                  "__uuid__": "a7242dc0-f9bf-405c-9d2d-0c77d5557208"
+                }
+              },
+              {
+                "frame": 0.25,
+                "value": {
+                  "__uuid__": "c9e341b8-9e40-488d-aa71-0c0b390b8288"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "87e76fef-f5a9-46d7-9ce4-9d8312ee9615"
+                }
+              },
+              {
+                "frame": 0.4166666666666667,
+                "value": {
+                  "__uuid__": "00f75595-a9ba-439d-8111-d35ad3b84c5c"
+                }
+              },
+              {
+                "frame": 0.5833333333333334,
+                "value": {
+                  "__uuid__": "71a51df1-6fb3-477a-af24-477530a4f74d"
+                }
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": {
+                  "__uuid__": "a50297e9-5f79-4088-a789-089ea43f6b6e"
+                }
+              },
+              {
+                "frame": 0.7666666666666667,
+                "value": {
+                  "__uuid__": "e9a41725-6d78-44aa-aac0-d73996173563"
+                }
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": {
+                  "__uuid__": "73432772-a377-42a2-b7ba-dc7e87338e47"
+                }
+              },
+              {
+                "frame": 0.9166666666666666,
+                "value": {
+                  "__uuid__": "ddb71083-406d-4733-ae8b-c4856eb7ec47"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "0a70c9f1-f664-4d30-aa31-b11362cc0a81"
+                }
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": {
+                  "__uuid__": "0a70c9f1-f664-4d30-aa31-b11362cc0a81"
+                }
+              },
+              {
+                "frame": 1.05,
+                "value": {
+                  "__uuid__": "8b3de047-8791-4f95-8bf0-304596e99545"
+                }
+              },
+              {
+                "frame": 1.15,
+                "value": {
+                  "__uuid__": "e65f0a3e-07bf-4319-b6d5-210c1c462d94"
+                }
+              },
+              {
+                "frame": 1.2333333333333334,
+                "value": {
+                  "__uuid__": "5a53f4ef-b408-436a-a1d9-fb67845cc780"
+                }
+              },
+              {
+                "frame": 1.3166666666666667,
+                "value": {
+                  "__uuid__": "138f799d-85be-4306-abf6-d499cf05c3d3"
+                }
+              },
+              {
+                "frame": 1.4,
+                "value": {
+                  "__uuid__": "ed6e55ec-7404-4793-8a88-28ea2a0c7c79"
+                }
+              },
+              {
+                "frame": 1.5,
+                "value": {
+                  "__uuid__": "37c327bb-0b3b-436d-9cab-14466103981f"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

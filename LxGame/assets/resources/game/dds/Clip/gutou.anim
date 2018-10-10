@@ -1,0 +1,54 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gutou",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 1.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.5833333333333334,
+          "value": 255
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": -2
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": -40,
+          "curve": "linear"
+        },
+        {
+          "frame": 0.35,
+          "value": 0,
+          "curve": "linear"
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": -45
+        }
+      ]
+    }
+  },
+  "events": []
+}

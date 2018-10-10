@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "daji",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f1c08d2f-cceb-49e4-b7c0-af5c6d82b2bb"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "56805cce-d034-4df1-89e8-7a14998dd4fb"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "3221139b-e712-4c36-a6ca-f14e717eca5d"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "61fc54d5-c0a0-4e74-bee1-f62fb71c8bd5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

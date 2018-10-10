@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a0966fca-8799-42ae-afbc-5c738bd86ef1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "randio2": {
+      "ver": "1.0.3",
+      "uuid": "52c26692-7708-43da-be43-56a758705b76",
+      "rawTextureUuid": "a0966fca-8799-42ae-afbc-5c738bd86ef1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 44,
+      "height": 46,
+      "rawWidth": 44,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d2f31943-f030-410d-9e52-257925db78b8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lionaida06": {
+      "ver": "1.0.3",
+      "uuid": "f46436fd-30fd-4f17-9b2b-fe845a9d1d9f",
+      "rawTextureUuid": "d2f31943-f030-410d-9e52-257925db78b8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": -6.5,
+      "trimX": 16,
+      "trimY": 13,
+      "width": 186,
+      "height": 195,
+      "rawWidth": 209,
+      "rawHeight": 208,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

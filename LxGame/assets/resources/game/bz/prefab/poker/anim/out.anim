@@ -1,0 +1,107 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "out",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 230
+        },
+        {
+          "frame": 0.1,
+          "value": 235
+        },
+        {
+          "frame": 0.2,
+          "value": 240
+        },
+        {
+          "frame": 0.3,
+          "value": 245
+        },
+        {
+          "frame": 0.4,
+          "value": 250
+        },
+        {
+          "frame": 0.5,
+          "value": 255
+        },
+        {
+          "frame": 0.6,
+          "value": 260
+        },
+        {
+          "frame": 0.7,
+          "value": 265
+        },
+        {
+          "frame": 0.8,
+          "value": 270
+        },
+        {
+          "frame": 0.9,
+          "value": 275
+        },
+        {
+          "frame": 1,
+          "value": 280
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.1,
+          "value": 225
+        },
+        {
+          "frame": 0.2,
+          "value": 200
+        },
+        {
+          "frame": 0.3,
+          "value": 175
+        },
+        {
+          "frame": 0.4,
+          "value": 150
+        },
+        {
+          "frame": 0.5,
+          "value": 125
+        },
+        {
+          "frame": 0.6,
+          "value": 100
+        },
+        {
+          "frame": 0.7,
+          "value": 75
+        },
+        {
+          "frame": 0.8,
+          "value": 50
+        },
+        {
+          "frame": 0.9,
+          "value": 25
+        },
+        {
+          "frame": 1,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

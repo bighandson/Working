@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5668fbcc-e75c-4b33-9809-14f66890b3aa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "wahuaItem": {
+      "ver": "1.0.3",
+      "uuid": "dafaa2bf-1fda-4009-8a26-a6a209e9b50b",
+      "rawTextureUuid": "5668fbcc-e75c-4b33-9809-14f66890b3aa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1020,
+      "height": 2038,
+      "rawWidth": 1024,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

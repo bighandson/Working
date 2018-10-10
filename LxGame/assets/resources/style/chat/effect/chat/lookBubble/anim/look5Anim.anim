@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "look5Anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2f83c309-380b-4e11-adb8-41044c34fff9"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "30e23a42-be4d-423a-82ea-954763d265b3"
+            }
+          },
+          {
+            "frame": 1.05,
+            "value": {
+              "__uuid__": "2f83c309-380b-4e11-adb8-41044c34fff9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

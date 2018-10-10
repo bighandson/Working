@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "loseAni_clip",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "sprite": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "448a5ffa-e5be-4a97-816d-3835270a7370"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "f898a2ea-4563-4484-9c15-a783d9dd5610"
+                }
+              },
+              {
+                "frame": 0.9833333333333333,
+                "value": {
+                  "__uuid__": "448a5ffa-e5be-4a97-816d-3835270a7370"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

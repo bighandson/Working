@@ -1,0 +1,72 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sandaierclip",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "sprite": {
+        "props": {},
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "4a29c2b9-a52d-4fb6-8732-7ba3931cd674"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "57d0d08c-438f-4e4e-8f86-67b41f9e409e"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "8a8642f7-17ce-4352-919c-462488ff4459"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "d3bb8183-6efa-4592-9ce4-a141a0874be5"
+                }
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": {
+                  "__uuid__": "0a701c8f-9011-4de1-a11b-5e98dd82ada2"
+                }
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": {
+                  "__uuid__": "f7f0c83f-2b50-40d9-a487-e5536d918ece"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "8bdafb0e-0eb7-4a88-9f9a-8c54f3e884a9"
+                }
+              },
+              {
+                "frame": 1.1666666666666667,
+                "value": {
+                  "__uuid__": "89998c8e-dbb3-48d6-81e5-071bc0ce9af2"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

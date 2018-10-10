@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "outAni",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4444444444444444,
+  "sample": 45,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.2222222222222222,
+          "value": 255,
+          "curve": "cubicIn"
+        },
+        {
+          "frame": 0.4444444444444444,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f62ab2ab-d93e-430e-bca4-4ac56e987960",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tuaida01": {
+      "ver": "1.0.3",
+      "uuid": "c94cde2f-4208-451b-9754-40bdba454c6b",
+      "rawTextureUuid": "f62ab2ab-d93e-430e-bca4-4ac56e987960",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 9,
+      "offsetY": -4,
+      "trimX": 19,
+      "trimY": 10,
+      "width": 120,
+      "height": 134,
+      "rawWidth": 140,
+      "rawHeight": 146,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
